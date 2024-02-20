@@ -1,0 +1,99 @@
+
+@import url(./fonts/fonts.css);
+*{
+  font-family: 'RobotoCondensed';
+  font-weight: 300;
+}
+.navbar-background{
+  background-image: url(./img/header-bg.jpg);
+  background-position: center;
+  height: 1080px;
+  background-size: cover;
+}
+.navbar a{
+  font-weight: 400;
+}
+.header h1{
+  font-family: 'Balqis';
+  font-size: 250px;
+  text-align: center;
+  margin-top: 150px;
+}
+.header h3{
+  font-size: 56px;
+  font-style: italic;
+  font-weight: 300;
+  margin-top: -75px;
+}
+.fairy-title h2{
+  color: #E2AB3F;
+  font-family: Balqis;
+  font-size: 96px;
+}
+.fairy-title h4{
+  color: #000;
+  font-family: RobotoCondensed;
+  font-size: 24px;
+  margin-top: -5;
+}
+.title{
+  color: #E2AB3F;
+  font-family: 'Balqis';
+  font-size: 96px;
+}
+.fairy-title .title{
+  margin-top: 200px;
+}
+.title-info{
+  font-size: 24px;
+font-style: italic;
+margin-top: -30px;
+}
+.fairy-title .title-info{
+  margin-bottom: 100px;
+}
+.trip{
+  margin-top: 240px;
+}
+.button{
+  border: 1px solid #E2AB3F;
+  background: #FFF;
+  padding: 11px 53px;
+}
+.hotel{
+  margin-top: 176px;
+  margin-bottom: 200px;
+}
+.hotel .title-info{
+  margin-bottom: 100px;
+}
+.price .title{
+  margin-top: 50px;
+}
+.ballon-2, .ballon-3{
+  width: 73px;
+}
+.ballon-1{
+  left: 186px;
+}
+.ballon-2{
+  left: 384px;
+  top: 335px;
+}
+.ballon-3{
+  left: 457px;
+  top: 500px;
+
+}
+.hotel-title{
+  margin-top: 220px;
+}
+.hotel-dan{
+  margin-top: 200px;
+  margin-left: 300px;
+  flex-direction: column;
+}
+input{
+  padding: 5px;
+  width: 360px;
+}
